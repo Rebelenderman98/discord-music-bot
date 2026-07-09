@@ -1,0 +1,6 @@
+node_modules/
+.env
+yt-dlp.exe
+*-player-script*.js
+logs/
+ecosystem.config.cjs
